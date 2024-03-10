@@ -1,0 +1,202 @@
+{
+  "metadata": {
+    "version": 47
+  },
+  "data": [
+    {
+      "insert": "Ticket Prices & Special Discounts"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "header": 1
+      }
+    },
+    {
+      "insert": "\nExplore the red planet with our exclusive weekend packages. Whether you're a science enthusiast, a student, or just looking for an adventure that's out of this world, we have something for everyone.\n\n"
+    },
+    {
+      "insert": {
+        "image": "/api/v1/images/Crazy Ideas/Weekend Trips to Mars/Ticket Prices & Special Discounts/ca572518-a178-4d0a-a928-8950ef0c6104.png"
+      },
+      "attributes": {
+        "height": "553",
+        "width": "553"
+      }
+    },
+    {
+      "insert": "\n\n"
+    },
+    {
+      "insert": "Standard",
+      "attributes": {
+        "background": "yellow"
+      }
+    },
+    {
+      "insert": " Ticket Prices"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "header": 2
+      }
+    },
+    {
+      "insert": "\n   "
+    },
+    {
+      "insert": "Adults",
+      "attributes": {
+        "bold": true
+      }
+    },
+    {
+      "insert": ": $200,000 per person\n   "
+    },
+    {
+      "insert": "Couples Package",
+      "attributes": {
+        "bold": true
+      }
+    },
+    {
+      "insert": ": $350,000 for two - Share the journey with a loved one and save!\n   "
+    },
+    {
+      "insert": "Family Package",
+      "attributes": {
+        "bold": true
+      }
+    },
+    {
+      "insert": ": $800,000 for a family of four - Make it a family getaway and save even more!\n\n"
+    },
+    {
+      "insert": "Special",
+      "attributes": {
+        "background": "yellow"
+      }
+    },
+    {
+      "insert": " Discounts"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "header": 2
+      }
+    },
+    {
+      "insert": "\n   Educational Discounts"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "header": 3
+      }
+    },
+    {
+      "insert": "\n      "
+    },
+    {
+      "insert": " Scientists and Researchers",
+      "attributes": {
+        "bold": true
+      }
+    },
+    {
+      "insert": ": 30% off - In recognition of your contribution to expanding human knowledge, all verified scientists and researchers can enjoy a significant discount.\n       "
+    },
+    {
+      "insert": "School Children",
+      "attributes": {
+        "bold": true
+      }
+    },
+    {
+      "insert": " (Ages 10-18): 50% off - Inspire the next generation of explorers with a hands-on learning experience like no other.\n\n   Group Discounts"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "header": 3
+      }
+    },
+    {
+      "insert": "\n       "
+    },
+    {
+      "insert": "Groups of 5+",
+      "attributes": {
+        "bold": true
+      }
+    },
+    {
+      "insert": ": 20% off per person - The more, the merrier, and the cheaper! Gather friends or colleagues for an unforgettable excursion.\n\n   Early Bird Special"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "header": 3
+      }
+    },
+    {
+      "insert": "\n       Book your trip 6 months in advance and receive an additional 10% off.\n\nAdditional Information"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "header": 2
+      }
+    },
+    {
+      "insert": "\n   "
+    },
+    {
+      "insert": "Included in Your Ticket",
+      "attributes": {
+        "bold": true
+      }
+    },
+    {
+      "insert": ":\n       - Round trip travel to Mars "
+    },
+    {
+      "insert": "and back",
+      "attributes": {
+        "background": "yellow"
+      }
+    },
+    {
+      "insert": ".\n       - Accommodation in our state-of-the-art Martian habitat.\n       - All meals and activities, including spacewalks and Mars rover expeditions.\n\n   "
+    },
+    {
+      "insert": "Not Included",
+      "attributes": {
+        "bold": true
+      }
+    },
+    {
+      "insert": ":\n       - Travel insurance (highly recommended).\n       - Souvenirs and personal expenditures.\n\nBooking and Cancellation Policy"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "header": 2
+      }
+    },
+    {
+      "insert": "\nA 50% deposit is required at the time of booking, with the remaining balance due "
+    },
+    {
+      "insert": "30 days before departure",
+      "attributes": {
+        "underline": true
+      }
+    },
+    {
+      "insert": ".\n\nCancellations made up to 45 days before departure will receive a full refund minus a 10% administration fee. Cancellations made within 44 to 15 days of departure will receive a 50% refund. No refunds will be issued for cancellations made less than 15 days before departure.\n\n\n"
+    }
+  ]
+}

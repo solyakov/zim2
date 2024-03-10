@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "version": 34
+  },
+  "data": [
+    {
+      "insert": "Weekend Trips to Mars"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "header": 1
+      }
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "insert": {
+        "image": "/api/v1/images/Crazy Ideas/Weekend Trips to Mars/2c6c1e79-0c05-4aed-b583-49a11325367a.png"
+      },
+      "attributes": {
+        "height": "500",
+        "width": "500"
+      }
+    },
+    {
+      "insert": "\n\nWelcome to the "
+    },
+    {
+      "insert": "future of weekend getaways",
+      "attributes": {
+        "background": "yellow"
+      }
+    },
+    {
+      "insert": "! Why settle for a mundane trip to the beach when you can experience the red sands of Mars? Our Weekend Trips to Mars package includes a "
+    },
+    {
+      "insert": "two-day adventure",
+      "attributes": {
+        "underline": true,
+        "background": "yellow"
+      }
+    },
+    {
+      "insert": " filled with Martian sunrises and sunsets, space hiking, and a chance to meet the local rocks.",
+      "attributes": {
+        "background": "yellow"
+      }
+    },
+    {
+      "insert": "\n\nScientific Basis"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "header": 2
+      }
+    },
+    {
+      "insert": "\nThe concept of short-term space travel has become increasingly feasible thanks to advances in rocket technology and life support systems. With companies like SpaceX and Blue Origin perfecting rapid, reusable rockets, the cost of launching into space is plummeting. Moreover, new habitat modules with advanced life support systems are being developed to make short stays on Mars not just possible, but "
+    },
+    {
+      "insert": "comfortable",
+      "attributes": {
+        "background": "yellow"
+      }
+    },
+    {
+      "insert": ".\n\nExample Itinerary"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "header": 2
+      }
+    },
+    {
+      "insert": "\n   "
+    },
+    {
+      "insert": "Day 1",
+      "attributes": {
+        "bold": true
+      }
+    },
+    {
+      "insert": ": Blast off and enjoy zero-gravity games while in transit.\n   "
+    },
+    {
+      "insert": "Day 2",
+      "attributes": {
+        "bold": true
+      }
+    },
+    {
+      "insert": ": Land on Mars, take selfies with Martian landscapes, drive a rover, and collect samples.\n   "
+    },
+    {
+      "insert": "Day 3",
+      "attributes": {
+        "bold": true
+      }
+    },
+    {
+      "insert": ": Return trip with a movie night featuring \"The Martian\"—both an educational and entertaining way to end your space journey.\n\n"
+    }
+  ]
+}

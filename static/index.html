@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ZIM2</title>
+    <link rel="stylesheet" href="/styles/reset.css">
+    <link rel="stylesheet" href="/styles/app.css">
+    <link href="/vendor/cdn.quilljs.com/1.3.6/quill.snow.css" rel="stylesheet">
+    <script src="/scripts/app.js" type="module" defer></script>
+    <script src="/vendor/cdn.quilljs.com/1.3.6/quill.js"></script>
+    <script src="/vendor/unpkg.com/quill-magic-url@4.2.0/dist/index.js"></script>
+</head>
+
+<body>
+
+    <div class="app">
+
+        <div class="sidebar">
+            <div class="sidebar-header">
+                <button id="new" class="button">➕ New</button>
+                <input id="query" class="sidebar-search-input" placeholder="Search" type="text">
+                <button id="search" class="button sidebar-search-button">🔍</button>
+            </div>
+            <div class="sidebar-content">
+                <nav id="sidebar-navigation"></nav>
+                <div id="sidebar-resize-handle"></div>
+            </div>
+        </div>
+
+        <div class="page">
+
+            <div class="page-header">
+                <button class="button sidebar-toggle">☰</button>
+                <div id="history-links" class="navigation-history"></div>
+                <details class="menu button">
+                    <summary>Page</summary>
+                    <div class="menu-content menu-content-page-header">
+                        <button id="delete" class="menu-item menu-item-danger">Delete</button>
+                        <button id="move" class="menu-item">Move</button>
+                </details>
+            </div>
+
+            <div class="page-content">
+                <div id="html-content-editor" spellcheck="false"></div>
+            </div>
+
+            <div id="toolbar" class="page-editor">
+                <button class="button page-editor-item page-editor-item-bold ql-bold">B</button>
+                <button id="ql-marker" class="button page-editor-item ql-background">🟨</button>
+                <button class="button page-editor-item page-editor-item-underscore ql-underline">U</button>
+                <details class="page-editor-item menu button">
+                    <summary>Format</summary>
+                    <div class="menu-content menu-content-heading">
+                        <button class="menu-item ql-header" value="4">Heading <strong>S</strong></button>
+                        <button class="menu-item ql-header" value="3">Heading <strong>M</strong></button>
+                        <button class="menu-item ql-header" value="2">Heading <strong>L</strong></button>
+                        <button class="menu-item ql-header" value="1">Heading <strong>XL</strong></button>
+                        <button class="menu-item ql-header" value="">Text</button>
+                        <button class="menu-item ql-code-block">Code</button>
+                </details>
+                <details class="page-editor-item menu button">
+                    <summary>Insert</summary>
+                    <div class="menu-content menu-content-insert">
+                        <button class="menu-item ql-image">Image</button>
+                        <button class="menu-item ql-link">Link</button>
+                        <button class="menu-item ql-video">Video</button>
+                    </div>
+                </details>
+                <div class="sync-status">
+                    <div id="pending-changes"></div>
+                </div>
+            </div>
+        </div>
+
+        <div id="error-popup">Error</div>
+
+    </div>
+
+</body>
+
+</html>

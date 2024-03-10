@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "version": 24
+  },
+  "data": [
+    {
+      "insert": "DIY Flying Car from Garage Scrap"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "header": 1
+      }
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "insert": {
+        "image": "/api/v1/images/Crazy Ideas/DIY Flying Car from Garage Scrap/6b821f61-8144-4544-88cd-18e4fc92230b.png"
+      },
+      "attributes": {
+        "height": "517",
+        "width": "517"
+      }
+    },
+    {
+      "insert": "\n\nTransform that pile of forgotten garage junk into the next transportation revolution! With our DIY guide, you can "
+    },
+    {
+      "insert": "convert your rusty bicycles, old car parts, and unused home appliances into a sleek flying car",
+      "attributes": {
+        "background": "yellow"
+      }
+    },
+    {
+      "insert": ".\n"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "header": 2
+      }
+    },
+    {
+      "insert": "Scientific Basis"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "header": 2
+      }
+    },
+    {
+      "insert": "\nThe principles of flight are not limited to conventional aircraft. By harnessing the power of ducted fans, lightweight materials, and gyroscopic stabilization technology—similar to what drones use—"
+    },
+    {
+      "insert": "a flying car is ",
+      "attributes": {
+        "background": "yellow"
+      }
+    },
+    {
+      "insert": "not",
+      "attributes": {
+        "bold": true,
+        "background": "yellow"
+      }
+    },
+    {
+      "insert": " just science fiction",
+      "attributes": {
+        "background": "yellow"
+      }
+    },
+    {
+      "insert": ". Modern control systems can be synthesized from simple microcontrollers and sensors, available in many household gadgets, to create stable and controllable flight dynamics.\n\nExample Build"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "header": 2
+      }
+    },
+    {
+      "insert": "\n   "
+    },
+    {
+      "insert": "Frame",
+      "attributes": {
+        "bold": true
+      }
+    },
+    {
+      "insert": ": Combine bicycle frames for lightweight chassis.\n   "
+    },
+    {
+      "insert": "Engines",
+      "attributes": {
+        "bold": true
+      }
+    },
+    {
+      "insert": ": Use old vacuum cleaners for initial thrust.\n   "
+    },
+    {
+      "insert": "Control System",
+      "attributes": {
+        "bold": true
+      }
+    },
+    {
+      "insert": ": Repurpose smartphone gyroscopes and accelerometers for basic navigation.\n   "
+    },
+    {
+      "insert": "Safety Features",
+      "attributes": {
+        "bold": true
+      }
+    },
+    {
+      "insert": ": Helmets and old seat belts, because "
+    },
+    {
+      "insert": "safety never takes a back seat",
+      "attributes": {
+        "background": "yellow"
+      }
+    },
+    {
+      "insert": "!\n\nImagine bypassing morning traffic while piloting a vehicle that was once a toaster. Just make sure your flying car is more than a \"falling with style\" apparatus!\n\n"
+    }
+  ]
+}

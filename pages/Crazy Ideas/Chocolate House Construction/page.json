@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "version": 23
+  },
+  "data": [
+    {
+      "insert": "Chocolate House Construction"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "header": 1
+      }
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "insert": {
+        "image": "/api/v1/images/Crazy Ideas/Chocolate House Construction/8b5dd011-d4f2-4273-b5a8-21ac0a30e029.png"
+      },
+      "attributes": {
+        "height": "556",
+        "width": "556"
+      }
+    },
+    {
+      "insert": "\n\nEver dreamed of living in a house "
+    },
+    {
+      "insert": "made of chocolate",
+      "attributes": {
+        "background": "yellow"
+      }
+    },
+    {
+      "insert": "? Now you can build your own edible abode, perfect for satisfying both your housing and snacking needs.\n\nScientific Basis"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "header": 2
+      }
+    },
+    {
+      "insert": "\nChocolate can be a surprisingly sturdy building material "
+    },
+    {
+      "insert": "when tempered correctly",
+      "attributes": {
+        "background": "yellow"
+      }
+    },
+    {
+      "insert": ". The process of tempering chocolate "
+    },
+    {
+      "insert": "aligns its molecular structure",
+      "attributes": {
+        "background": "yellow"
+      }
+    },
+    {
+      "insert": " to make it stronger and gives it a higher melting point than regular chocolate. Using thick, "
+    },
+    {
+      "insert": "tempered chocolate bricks",
+      "attributes": {
+        "background": "yellow"
+      }
+    },
+    {
+      "insert": ", insulated with a layer of sugar foam, can create walls that are both tasty and thermally resistant.\n\nExample Construction Plan"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "header": 2
+      }
+    },
+    {
+      "insert": "\n   "
+    },
+    {
+      "insert": "Foundation",
+      "attributes": {
+        "bold": true
+      }
+    },
+    {
+      "insert": ": A thick layer of chocolate nougat for stability and shock absorption.\n   "
+    },
+    {
+      "insert": "Walls",
+      "attributes": {
+        "bold": true
+      }
+    },
+    {
+      "insert": ": Double-layered dark chocolate bricks with white chocolate mortar.\n   "
+    },
+    {
+      "insert": "Roof",
+      "attributes": {
+        "bold": true
+      }
+    },
+    {
+      "insert": ": Shingles made of hardened milk chocolate for easy repairs... and nibbles.\n\nKeep your home cool with air conditioning to prevent it from turning into hot chocolate. Also, during Easter, your house becomes the ultimate egg hunt prize!\n\n"
+    }
+  ]
+}

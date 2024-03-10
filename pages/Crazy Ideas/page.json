@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "version": 48
+  },
+  "data": [
+    {
+      "insert": "Crazy Ideas"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "header": 1
+      }
+    },
+    {
+      "insert": "\n"
+    },
+    {
+      "insert": {
+        "image": "/api/v1/images/Crazy Ideas/335ac50e-971e-4426-a1b7-fc12a19f4c74.png"
+      },
+      "attributes": {
+        "height": "439",
+        "width": "439"
+      }
+    },
+    {
+      "insert": "\n\nThis space is dedicated to the "
+    },
+    {
+      "insert": "wild, the weird, and the wonderfully whimsical",
+      "attributes": {
+        "background": "yellow"
+      }
+    },
+    {
+      "insert": ". Whether it’s an unconventional invention, a "
+    },
+    {
+      "insert": "groundbreaking",
+      "attributes": {
+        "underline": true
+      }
+    },
+    {
+      "insert": " business venture, or just a quirky twist on everyday life, jot it down here. "
+    },
+    {
+      "insert": "Nothing is too far-fetched in the pursuit of innovation!",
+      "attributes": {
+        "bold": true
+      }
+    },
+    {
+      "insert": "\n\n"
+    },
+    {
+      "insert": "Weekend Trips to Mars",
+      "attributes": {
+        "link": "#/Crazy Ideas/Weekend Trips to Mars"
+      }
+    },
+    {
+      "insert": "\n\n"
+    },
+    {
+      "insert": "DIY Flying Car from Garage Scrap",
+      "attributes": {
+        "link": "#/Crazy Ideas/DIY Flying Car from Garage Scrap"
+      }
+    },
+    {
+      "insert": "\n\n"
+    },
+    {
+      "insert": "Chocolate House Construction",
+      "attributes": {
+        "link": "#/Crazy Ideas/Chocolate House Construction"
+      }
+    },
+    {
+      "insert": "\n\n"
+    }
+  ]
+}
